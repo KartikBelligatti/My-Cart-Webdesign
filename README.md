@@ -1,7 +1,7 @@
 # My-Cart-Webdesign
 It is a My cart page webdesign of E-Commerce website, which was developed using HTML, CSS and JS. Which is a Reactive Webdesign.
 
-#Snapshots
+# Snapshots
 
 
 ![Screenshot (2056)](https://user-images.githubusercontent.com/58390249/134924068-10cbca59-fecf-4ac3-b961-b5989b73f2b4.png)
